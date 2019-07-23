@@ -14,7 +14,7 @@
 
 
 
-project('c-example', 'c',
+project('d-example', 'd',
     version         : '0.1.0',
     license         : 'MIT',
     meson_version   : '>=0.50.0')
